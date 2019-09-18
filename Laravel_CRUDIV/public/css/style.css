@@ -1,0 +1,24 @@
+.imagenCabecera{
+	position: relative;
+	margin-top: 1%;
+	width: 20%;
+	height: 15%;
+
+	border-radius: 100%; 
+}
+
+.cabecera{
+	text-align: center;
+	font-size: x-large;
+	font-family: Tahoma, Geneva, sans-serif;
+	margin-bottom: 100px;
+	color: blue;
+}
+
+.pie{
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	font-size: 0.7em;
+	margin-bottom: 15px;
+}
